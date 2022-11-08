@@ -1,0 +1,3 @@
+# SBS1 (BaseStation) Format
+
+Whilst building something to decode information from my aircraft SDR I needed to understand how to interpret the SBS1 messages being pumped out from [dump1090](https://github.com/antirez/dump1090). The code that outputs the data is a little odd (see [here](https://github.com/antirez/dump1090/blob/master/dump1090.c#L2047)) but there is a node library which makes it a little clearer ([here](https://github.com/wiseman/node-sbs1/blob/master/index.js#L89)).
