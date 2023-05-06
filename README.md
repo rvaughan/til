@@ -4,7 +4,7 @@ My "Today I Learned" (TIL) snippets. Inspired by [simonw/til](https://github.com
 
 You can consider TIL a form of micro-blogging, as well as a way of trying to remember how a particular problem was actually solved.
 
-<!-- count starts -->8<!-- count ends --> TILs and counting...
+<!-- count starts -->9<!-- count ends --> TILs and counting...
 
 <!-- index starts -->
 ## google_analytics
@@ -32,4 +32,8 @@ You can consider TIL a form of micro-blogging, as well as a way of trying to rem
 
 * [Custom Images](https://github.com/rvaughan/til/blob/main/rpi/custom_images.md) - 2023-02-21
 * [Finding a Raspberry Pi](https://github.com/rvaughan/til/blob/main/rpi/finding.md) - 2023-02-25
+
+## github
+
+* [SSH Deploying](https://github.com/rvaughan/til/blob/main/github/ssh_deploy.md) - 2023-05-06
 <!-- index ends -->
