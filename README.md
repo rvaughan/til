@@ -4,7 +4,7 @@ My "Today I Learned" (TIL) snippets. Inspired by [simonw/til](https://github.com
 
 You can consider TIL a form of micro-blogging, as well as a way of trying to remember how a particular problem was actually solved.
 
-<!-- count starts -->9<!-- count ends --> TILs and counting...
+<!-- count starts -->16<!-- count ends --> TILs and counting...
 
 <!-- index starts -->
 ## google_analytics
@@ -36,4 +36,14 @@ You can consider TIL a form of micro-blogging, as well as a way of trying to rem
 ## github
 
 * [SSH Deploying](https://github.com/rvaughan/til/blob/main/github/ssh_deploy.md) - 2023-05-06
+
+## aws
+
+* [Installing Greengrass on a Raspberry Pi](https://github.com/rvaughan/til/blob/main/aws/greengrass_rpi_install.md) - 2023-05-07
+* [Greengrass Grasspian](https://github.com/rvaughan/til/blob/main/aws/greengrass_grasspian.md) - 2023-05-07
+* [Greengrass Deployments](https://github.com/rvaughan/til/blob/main/aws/greengrass_deployments.md) - 2023-05-07
+* [AWS Greengrass](https://github.com/rvaughan/til/blob/main/aws/greengrass_about.md) - 2023-05-07
+* [Greengrass Development SDK CLI](https://github.com/rvaughan/til/blob/main/aws/greengrass_dev_sdk_cli.md) - 2023-05-07
+* [Greengrass Device Shadow](https://github.com/rvaughan/til/blob/main/aws/greengrass_device_shadow.md) - 2023-05-07
+* [Cognito JWKS](https://github.com/rvaughan/til/blob/main/aws/cognito_jwks.md) - 2023-05-07
 <!-- index ends -->
