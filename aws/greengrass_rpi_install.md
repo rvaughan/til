@@ -1,4 +1,4 @@
-# Installing on a Raspberry Pi
+# Installing Greengrass on a Raspberry Pi
 
 To start using Greengrass you need to initially configure the AWS CLI on the Raspberry Pi. On my version I needed to create a symlink to the Python3 binary to allow the AWS CLI to work unimpeded.
 
