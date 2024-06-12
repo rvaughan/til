@@ -4,7 +4,7 @@ My "Today I Learned" (TIL) snippets. Inspired by [simonw/til](https://github.com
 
 You can consider TIL a form of micro-blogging, as well as a way of trying to remember how a particular problem was actually solved.
 
-<!-- count starts -->16<!-- count ends --> TILs and counting...
+<!-- count starts -->19<!-- count ends --> TILs and counting...
 
 <!-- index starts -->
 ## google_analytics
@@ -19,6 +19,7 @@ You can consider TIL a form of micro-blogging, as well as a way of trying to rem
 
 * [SSH Client](https://github.com/rvaughan/til/blob/main/golang/ssh_client.md) - 2022-11-08
 * [Cross-Compiling Golang Code](https://github.com/rvaughan/til/blob/main/golang/cross_compiling.md) - 2022-12-09
+* [Understanding the CPU Architecture](https://github.com/rvaughan/til/blob/main/golang/cpu.md) - 2023-11-18
 
 ## c_sharp
 
@@ -40,10 +41,18 @@ You can consider TIL a form of micro-blogging, as well as a way of trying to rem
 ## aws
 
 * [Installing Greengrass on a Raspberry Pi](https://github.com/rvaughan/til/blob/main/aws/greengrass_rpi_install.md) - 2023-05-07
-* [Greengrass Grasspian](https://github.com/rvaughan/til/blob/main/aws/greengrass_grasspian.md) - 2023-05-07
-* [Greengrass Deployments](https://github.com/rvaughan/til/blob/main/aws/greengrass_deployments.md) - 2023-05-07
-* [AWS Greengrass](https://github.com/rvaughan/til/blob/main/aws/greengrass_about.md) - 2023-05-07
 * [Greengrass Development SDK CLI](https://github.com/rvaughan/til/blob/main/aws/greengrass_dev_sdk_cli.md) - 2023-05-07
+* [Greengrass Deployments](https://github.com/rvaughan/til/blob/main/aws/greengrass_deployments.md) - 2023-05-07
 * [Greengrass Device Shadow](https://github.com/rvaughan/til/blob/main/aws/greengrass_device_shadow.md) - 2023-05-07
+* [AWS Greengrass](https://github.com/rvaughan/til/blob/main/aws/greengrass_about.md) - 2023-05-07
+* [Greengrass Grasspian](https://github.com/rvaughan/til/blob/main/aws/greengrass_grasspian.md) - 2023-05-07
 * [Cognito JWKS](https://github.com/rvaughan/til/blob/main/aws/cognito_jwks.md) - 2023-05-07
+
+## osx
+
+* [BPF](https://github.com/rvaughan/til/blob/main/osx/bpf.md) - 2023-11-18
+
+## fastapi
+
+* [Seeding Data](https://github.com/rvaughan/til/blob/main/fastapi/seeding_data.md) - 2023-11-18
 <!-- index ends -->
